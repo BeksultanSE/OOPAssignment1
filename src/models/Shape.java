@@ -12,15 +12,17 @@ public class Shape {
         points.add(point);
     }
     public double getAverageSide(){
-
+        return 0;
     }
     public double getLongestSide(){
-
+        return 0;
     }
     private double traverseShapePoints(){
         for(int i = 0; i < points.size(); i++){
 
         }
+
+        return 0;
     }
 
 }
